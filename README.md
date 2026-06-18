@@ -1,6 +1,2 @@
 # Practica_4_4
-Este repositorio es creado para realizar la práctica 4_4
-Ayer se celebró una reunión del equipo, asistiron Juan, Alicia, Pepe y Manuel
-y se acordó que se entrenase 3 veces a la semana
-Se han incorporado nuevos requisitos al proyecto después de la reunión de proyecto del
-11Febr2025.
+En este repositorio se encuentran todos los archivos y códigos utilizados para el proyecto de prácticas. Con el modelo de la catedral finalmente usada y las nuevas implementaciones que no llegamos a ver en clase
